@@ -2,43 +2,19 @@
     "data": [
         {
             "sno": "1",
-            "name": "Govt Medical College, Jammu",
+            "name": " ICMR Regional Medical Research Centre, Port Blair",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Command Hospital NC Udhampur",
+            "name": " A N Islands Institute of Medical Sciences, Port Blair ",
             "type": "Government",
-            "test_type": "RT-PCR"
+            "test_type": "TrueNat"
         },
         {
             "sno": "3",
-            "name": " Sher i Kashmir Institute of Medical Sciences, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "4",
-            "name": " Govt Medical College, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "5",
-            "name": " Sheri Kashmir Institute of Medical Science Medical College, Bemina, Srinagar",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "6",
-            "name": " CSIR Indian Institute of Integrative Medicine IIIM , Jammu ",
-            "type": "Government",
-            "test_type": "RT-PCR"
-        },
-        {
-            "sno": "7",
-            "name": " Intermediate Reference Laboratory, Chest Disease Hospital, Dalgate, Srinagar",
+            "name": " GB Pant Hospital, Port Blair",
             "type": "Government",
             "test_type": "CB NAAT"
         }
